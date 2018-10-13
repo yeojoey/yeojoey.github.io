@@ -36,4 +36,17 @@ h4 {
 .navbar-brand {
   font-family: 'News Cycle', sans-serif;
   text-transform: uppercase;
+  color: white;
+}
+
+.nav-link {
+  color: white;
+}
+
+a {
+  color: #f39090
+}
+
+.nav-link:hover {
+  color: #ccccee;
 }

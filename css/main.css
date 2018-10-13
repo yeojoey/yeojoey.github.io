@@ -7,3 +7,10 @@
     stroke-linejoin: round;
     fill: none;
 }
+
+.frontpage-textbox {
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    background-color: rgba(0, 0, 0, 0.7);
+    padding:40px;
+}
