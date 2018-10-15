@@ -5,7 +5,7 @@
  */
 
 body {
-  background: url("../img/background.png") no-repeat center center fixed;
+  background-color: #1a1a20;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
@@ -45,6 +45,10 @@ h4 {
 
 a {
   color: #f39090
+}
+
+a:visited {
+  color: #cf707d
 }
 
 .nav-link:hover {

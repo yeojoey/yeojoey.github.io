@@ -8,9 +8,22 @@
     fill: none;
 }
 
+
+.frontpage {
+    background: url("../img/background.png") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
 .frontpage-textbox {
     color: white;
     font-family: 'Open Sans', sans-serif;
     background-color: rgba(0, 0, 0, 0.7);
     padding:40px;
+}
+
+.portfolio-item {
+    
 }
