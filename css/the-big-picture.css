@@ -95,13 +95,34 @@ a:visited {
   text-transform: uppercase;
   font-size: 2rem;
 }
-
-.portfolio-p {
+.portfolio-page-subheader {
   color: white;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'News Cycle', sans-serif;
+  font-size: 1.5rem;
 }
+.portfolio-page-subheader2 {
+  color: white;
+  font-family: 'News Cycle', sans-serif;
+  font-style: italic;
+  font-size: 1rem;
+}
+
 
 .card {
   border: none;
 }
 
+.portfolio-content {
+  color: #dfdfdf;
+  font-family: 'Open Sans', sans-serif;
+}
+
+hr { 
+  display: block;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  margin-left: auto;
+  margin-right: auto;
+  border-style: inset;
+  border-width: 1px;
+}
