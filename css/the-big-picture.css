@@ -22,15 +22,17 @@ body {
 
 .display-2 {
   font-family: 'News Cycle', sans-serif;
+  font-size: 2rem
 }
 
 .display-3 {
   font-family: 'News Cycle', sans-serif;
+  font-size: 3rem
 }
+
 
 h4 {
   font-family: 'News Cycle', sans-serif;
-  text-transform: lowercase
 }
 
 .navbar {
@@ -92,13 +94,12 @@ a:visited {
 .portfolio-page-header {
   color: white;
   font-family: 'News Cycle', sans-serif;
-  text-transform: uppercase;
-  font-size: 2rem;
+  font-size: 1.5rem;
 }
 .portfolio-page-subheader {
   color: white;
   font-family: 'News Cycle', sans-serif;
-  font-size: 1.5rem;
+  font-size: 1rem;
 }
 .portfolio-page-subheader2 {
   color: white;
@@ -117,7 +118,7 @@ a:visited {
   font-family: 'Open Sans', sans-serif;
 }
 
-hr { 
+hr {
   display: block;
   margin-top: 0.5em;
   margin-bottom: 0.5em;
