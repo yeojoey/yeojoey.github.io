@@ -1,12 +1,14 @@
 ---
 layout: default
-title: Home
+title: Joey Yeo - Game Designer
+type: home
 ---
 
 <header>
-<h1>This is Phantom, a free, fully responsive site<br />
-template designed by <a href="http://html5up.net">HTML5 UP</a>.</h1>
-<p>Etiam quis viverra lorem, in semper lorem. Sed nisl arcu euismod sit amet nisi euismod sed cursus arcu elementum ipsum arcu vivamus quis venenatis orci lorem ipsum et magna feugiat veroeros aliquam. Lorem ipsum dolor sit amet nullam dolore.</p>
+<h1>Hi! I'm Joey.</h1>
+<p>I'm a <strong>game designer</strong> and <strong>programmer</strong> from Singapore studying for a Master of Entertainment Technology at Carnegie Mellon University's Entertainment Technology Center.</p>
+
+<p>I love playing games, making games, and writing about games.</p>
 </header>
 
-{% include tiles.html %}
+{% include frontpage-tiles.html %}

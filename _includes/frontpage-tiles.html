@@ -1,0 +1,33 @@
+<section class="tiles">
+
+<!-- {% for page in site.portfolio limit:site.front-page-pages %}
+	<article class="style{{ forloop.index | plus:1 }}">
+		<span class="image">
+			<img src="{{ site.url }}{{ site.baseurl }}/images/pic01.jpg" alt="" />
+		</span>
+		<a href="{{ page.url | prepend:site.baseurl | prepend:site.url }}">
+			<h2>{{ page.title }}</h2>
+			<div class="content">
+				<p>{{ page.excerpt }}</p>
+			</div>
+		</a>
+	</article>
+{% endfor %} -->
+
+{% for page in site.pages %}
+	{% if page.priority == "front-page" %}
+		<article class="style{{ forloop.index | plus:1 }}">
+			<span class="image">
+				<img src="{{ site.url }}{{ site.baseurl }}/images/pic01.jpg" alt="" />
+			</span>
+			<a href="{{ page.url | prepend:site.baseurl | prepend:site.url }}">
+				<h2>{{ page.title }}</h2>
+				<div class="content">
+					<p>{{ page.excerpt }}</p>
+				</div>
+			</a>
+		</article>
+	{% endif %}
+{% endfor %}
+
+</section>
