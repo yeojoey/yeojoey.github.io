@@ -4,4 +4,4 @@ title: Portfolio
 type: menu
 ---
 
-Portfolio landing page
+{% include portfolio-tiles.html %}

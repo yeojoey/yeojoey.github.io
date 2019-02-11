@@ -16,7 +16,7 @@
 
 {% assign post_index = 0 %}
 {% for page in site.pages %}
-	{% if page.priority == "front-page" %}
+	{% if page.type == "portfolio" %}
 	{% capture post_index %}{% increment post_index %}{% endcapture %}
 		<article class="style{{post_index | modulo:6 | plus:1}}">
 			<span class="image">
