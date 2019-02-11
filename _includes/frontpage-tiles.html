@@ -16,9 +16,9 @@
 
 {% for page in site.pages %}
 	{% if page.priority == "front-page" %}
-		<article class="style{{ forloop.index | plus:1 }}">
+		<article class="style{{ forloop.index | modulo:6 }}">
 			<span class="image">
-				<img src="{{ site.url }}{{ site.baseurl }}/images/pic01.jpg" alt="" />
+				<img src="{{ site.url }}{{ site.baseurl }}/images/{{page.thumbnail-url}}" alt="" />
 			</span>
 			<a href="{{ page.url | prepend:site.baseurl | prepend:site.url }}">
 				<h2>{{ page.title }}</h2>

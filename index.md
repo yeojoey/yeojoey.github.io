@@ -11,4 +11,6 @@ type: home
 <p>I love playing games, making games, and writing about games.</p>
 </header>
 
+<h2 style="text-align:center">Recent Work</h2>
+
 {% include frontpage-tiles.html %}
