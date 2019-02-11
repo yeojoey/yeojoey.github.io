@@ -4,7 +4,7 @@ title:  "Beat'Em"
 type: portfolio
 priority: front-page
 excerpt: "A VR rhythm-action-game made for the Building Virtual Worlds class in 2018."
-video-url: "https://www.youtube.com/embed/j2WFh5GtcNY"
+video-url: "GN4sg4TsPPQ"
 thumbnail-url: "portfolio/beatem_thumbnail.png"
 tag: [school, vr, game]
 ---

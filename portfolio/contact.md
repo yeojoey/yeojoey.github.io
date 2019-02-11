@@ -4,7 +4,7 @@ title:  "Contact"
 type: portfolio
 priority: front-page
 excerpt: "An interactive VR musical experience made for the Building Virtual Worlds class in 2018."
-video-url: "https://www.youtube.com/embed/j2WFh5GtcNY"
+video-url: "j2WFh5GtcNY"
 thumbnail-url: "portfolio/contact_thumbnail.png"
 tag: [school, vr]
 ---

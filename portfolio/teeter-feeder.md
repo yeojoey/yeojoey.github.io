@@ -4,7 +4,7 @@ title:  "Teeter Feeder"
 type: portfolio
 priority: front-page
 excerpt: "A two-player arcade game using see-saws as controllers, made for the Building Virtual Worlds class in 2018."
-video-url: "https://www.youtube.com/embed/j2WFh5GtcNY"
+video-url: "UEigYEH5frc"
 thumbnail-url: "portfolio/teeter_thumbnail.png"
 tag: [school, game, arcade]
 ---

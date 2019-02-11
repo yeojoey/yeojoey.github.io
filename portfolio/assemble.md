@@ -4,7 +4,7 @@ title:  "Assemblé"
 type: portfolio
 priority: front-page
 excerpt: "An narrative VR experience made for the Building Virtual Worlds class in 2018."
-video-url: "https://www.youtube.com/embed/j2WFh5GtcNY"
+video-url: "qZxpP9DZF0w"
 thumbnail-url: "portfolio/assemble_thumbnail.png"
 tag: [school, vr, narrative]
 ---
