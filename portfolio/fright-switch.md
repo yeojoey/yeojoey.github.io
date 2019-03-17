@@ -19,7 +19,7 @@ tag: [game-jam, game]
 
 ## Contributions
 * Designed game concept
-* Created all art assets
+* Created all 2D art assets
 * Implemented animations in University
 
 <hr />
