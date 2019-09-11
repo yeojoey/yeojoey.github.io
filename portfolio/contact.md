@@ -2,7 +2,6 @@
 layout: portfolio
 title:  "Contact"
 type: portfolio
-priority: front-page
 excerpt: "An interactive VR musical experience made for the Building Virtual Worlds class in 2018."
 video-url: "j2WFh5GtcNY"
 thumbnail-url: "portfolio/contact_thumbnail.png"

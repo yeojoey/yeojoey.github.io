@@ -2,7 +2,7 @@
 layout: portfolio
 title:  "Assemblé"
 type: portfolio
-priority: front-page
+priority:
 excerpt: "An narrative VR experience made for the Building Virtual Worlds class in 2018."
 video-url: "qZxpP9DZF0w"
 thumbnail-url: "portfolio/assemble_thumbnail.PNG"
