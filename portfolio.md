@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Portfolio
+title: All Works
 type: menu
 ---
 

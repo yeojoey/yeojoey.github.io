@@ -2,10 +2,9 @@
 layout: portfolio
 title:  "Fright Switch"
 type: portfolio
-priority: front-page
 excerpt: "Global Game Jam 2019 entry."
 thumbnail-url: "portfolio/fright_thumbnail.png"
-tag: [game-jam, game]
+tags: [game-jam, game]
 ---
 
 <img src="/images/portfolio/fright_screenshot.jpg" class="img-fluid" />

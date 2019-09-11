@@ -5,7 +5,7 @@ type: portfolio
 excerpt: "A two-player arcade game using see-saws as controllers, made for the Building Virtual Worlds class in 2018."
 video-url: "UEigYEH5frc"
 thumbnail-url: "portfolio/teeter_thumbnail.png"
-tag: [school, game, arcade]
+tags: [school, game, arcade]
 ---
 
 **Role:** Game Designer / Programmer    
