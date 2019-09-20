@@ -4,4 +4,4 @@ title: VR/AR Works
 type: menu
 ---
 
-{% include ar-vr-tiles.html %}
+{% include vr-ar-tiles.html %}
