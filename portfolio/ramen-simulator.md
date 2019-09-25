@@ -4,7 +4,7 @@ title:  "Ramen Simulator"
 type: portfolio
 priority: front-page
 excerpt: "A browser-based action game where you assemble perfect ramen bowls."
-thumbnail-url: "portfolio/ramen_thumbnail.PNG"
+thumbnail-url: "portfolio/ramen_thumbnail.png"
 tags: [school, game]
 ---
 
