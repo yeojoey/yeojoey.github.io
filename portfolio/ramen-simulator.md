@@ -8,9 +8,9 @@ thumbnail-url: "portfolio/ramen_thumbnail.PNG"
 tags: [school, game]
 ---
 
-**Role:** I made everything, except for the music!
-**Duration:** 3 weeks
-**Platform:** Web
+**Role:** I made everything, except for the music!  
+**Duration:** 3 weeks  
+**Platform:** Web  
 **Tools:** Unity, Aseprite   
 
 <hr />
