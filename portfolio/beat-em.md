@@ -11,7 +11,7 @@ tags: [school, vr, game]
 
 **Role:** Game Designer / Programmer    
 **Duration:** 3 weeks    
-**Platform:** HTC Vive
+**Platform:** HTC Vive  
 **Tools:** Unity    
 
 <hr />
