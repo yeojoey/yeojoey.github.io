@@ -8,7 +8,7 @@ thumbnail-url: "portfolio/teeter_thumbnail.png"
 tags: [school, game, arcade]
 ---
 
-**Role:** Game Designer / Programmer    
+**Role:** Game Designer / Programmer
 **Duration:** 1 week
 **Platform:** PC, with Spatial Phidgets as controllers
 **Tools:** Unity, Phidgets    
