@@ -25,6 +25,6 @@ This game was a project for a Game Design class at the ETC, where the task was t
 <hr />
 
 ## Process GIFs
-![](portfolio/ramen1.gif)  
-![](portfolio/ramen2.gif)  
-![](portfolio/ramen3.gif)  
+![](/images/portfolio/ramen1.gif)  
+![](/images/portfolio/ramen2.gif)  
+![](/images/portfolio/ramen3.gif)  
