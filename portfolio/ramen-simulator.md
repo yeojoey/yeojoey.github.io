@@ -23,3 +23,8 @@ tags: [school, game]
 This game was a project for a Game Design class at the ETC, where the task was to design and make a game that we had to playtest and iterate upon, documenting each iteration in a final design document. View the document [here](https://docs.google.com/document/d/1_Xm_zBV3S8PAwcNZOcbEk6QHAK-slVwGpNvr4ymxcWI/edit?usp=sharing).
 
 <hr />
+
+## Process GIFs
+![](portfolio/ramen1.gif)  
+![](portfolio/ramen2.gif)  
+![](portfolio/ramen3.gif)  
