@@ -2,8 +2,7 @@
 layout: portfolio
 title:  "Commit to the Bits"
 type: portfolio
-priority: front-page
-excerpt: "Improvisational acting games played on Twitch, with an accompanying extension"
+excerpt: "Improvisational acting games played on Twitch, with an accompanying extension."
 video-url: "PqKdXo-p8q4"
 thumbnail-url: "portfolio/commit_thumbnail.png"
 tags: [school, web, game]
