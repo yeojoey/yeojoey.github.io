@@ -7,7 +7,7 @@ thumbnail-url: "portfolio/fright_thumbnail.png"
 tags: [game-jam, game]
 ---
 
-<img src="/images/portfolio/fright_screenshot.jpg" class="img-fluid" />
+<img src="/images/portfolio/fright_screenshot.jpg" class="mx-auto d-block" />
 
 **Role:** Designer / Artist   
 **Duration:** 48 hours    
