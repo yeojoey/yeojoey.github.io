@@ -5,7 +5,7 @@ type: portfolio
 priority: front-page
 excerpt: "A VR rhythm-action-game made for the Building Virtual Worlds class in 2018."
 video-url: "GN4sg4TsPPQ"
-thumbnail-url: "portfolio/beatem_thumbnail.png"
+thumbnail-url: "portfolio/beatem_thumbnail.gif"
 tags: [school, vr, game]
 ---
 
