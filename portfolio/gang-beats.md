@@ -26,7 +26,7 @@ Gang Beats is a competitive multiplayer rhythm fighting game for 2 to 4 players,
 <hr />
 
 ## Design Goals
-We realized that there were many multiplayer rhythm games already existing, but few of them involve direct interaction between players, and instead focus on who can get the highest score. In Gang Beats, our goal was to have a player’s rhythmic accuracy negatively impact other players, which would increase their own chance of winning the game.  
+We realized that there were many multiplayer rhythm games already existing, but few of them involve direct interaction between players, and instead focus on who can get the highest score. In Gang Beats, our goal was to have a player’s rhythmic accuracy negatively impact other players, which would increase their own chance of winning the game.
 
 We determined that the main mechanic of the game would be fighting-game-esque: players would be able to damage other players based on how accurately they were hitting the button to the beat.
 

@@ -4,7 +4,7 @@ title:  "Ramen Simulator"
 type: portfolio
 priority: front-page
 excerpt: "A browser-based action game where you assemble perfect ramen bowls."
-thumbnail-url: "portfolio/ramen_thumbnail.png"
+thumbnail-url: "portfolio/ramen_thumbnail.gif"
 tags: [school, game]
 ---
 
@@ -24,6 +24,10 @@ tags: [school, game]
 This game was a project for a Game Design class at the ETC, where the task was to design and make a game that we had to playtest and iterate upon, documenting each iteration in a final design document. View the document [here](https://docs.google.com/document/d/1_Xm_zBV3S8PAwcNZOcbEk6QHAK-slVwGpNvr4ymxcWI/edit?usp=sharing). Play the game [here](https://yeojoey.itch.io/ramen-simulator).
 
 <hr />
+
+## Design Goals
+
+This project had no prompt: our only requirement was that we make a game, and that the game was good. My immediate desire for this project was for me to see it through in every aspect -- aesthetics, sound, and game mechanics -- to create a game that felt effortlessly cohesive.
 
 ## Process GIFs
 ![](/images/portfolio/ramen1.gif) ![](/images/portfolio/ramen2.gif) ![](/images/portfolio/ramen3.gif)  
