@@ -47,6 +47,8 @@ Including the timed mode and making the game single-player only was a step in th
 
 An interesting thing to note is that any standard level (without moving enemies) can be completed within an 8-beat time limit, because of the size of the board (8 beats long).
 
+---
+
 ## Development Process
 
 I scripted a level editing system that read CSV files to level assets that were loaded into the scene upon level selection.
