@@ -38,7 +38,7 @@ Players are scored by how many projectiles they take to complete the puzzle. The
 
 ---
 
-##Design Challenges  
+## Design Challenges  
 The biggest challenge we had over the course of developing Jelly Tracks was trying to identify what kind of game it wanted to be.
 
 Originally, it was a cooperative puzzle game with no time limit, where one player controlled the red projectiles while the other controlled the blue ones. However, we realized this diminished the puzzle aspect of the game -- instead, it seemed more like a cooperative action game where the main point of the game was to coordinate with your partner, rather than to act according to the rhythm.
