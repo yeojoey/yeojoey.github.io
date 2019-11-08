@@ -4,8 +4,10 @@ title:  "Jelly Tracks"
 type: portfolio
 priority: front-page
 excerpt: "A rhythm puzzle game prototype created as an exploration of the rhythm game genre."
+video-url: "OuTDTsa9chM"
 thumbnail-url: "portfolio/jelly_thumbnail.gif"
 tags: [school, game]
+
 ---
 
 **Role:** Designer, Programmer  
@@ -23,7 +25,7 @@ tags: [school, game]
 
 Jelly Tracks is a rhythm puzzle game, developed as part of the [Jam Session](https://etc.cmu.edu/projects/jam-session) project at the ETC. You can play it [here](https://jamsession.itch.io/jelly-tracks).
 
-<hr />
+---
 
 ## Game Rules
 Players fire red projectiles from the left and blue projectiles from the right.
@@ -34,7 +36,7 @@ Some enemies move after being hit.
 If all enemies aren’t destroyed within the time limit, the enemies respawn and the time limit resets.
 Players are scored by how many projectiles they take to complete the puzzle. The fewer projectiles, the better.
 
-<hr />
+---
 
 ##Design Challenges  
 The biggest challenge we had over the course of developing Jelly Tracks was trying to identify what kind of game it wanted to be.
