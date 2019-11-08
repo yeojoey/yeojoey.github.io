@@ -4,7 +4,7 @@ title:  "Jelly Tracks"
 type: portfolio
 priority: front-page
 excerpt: "A rhythm puzzle game prototype created as an exploration of the rhythm game genre."
-video-url: "OuTDTsa9chM"
+video-url: "Z2Q3fOFJJh4"
 thumbnail-url: "portfolio/jelly_thumbnail.gif"
 tags: [school, game]
 
