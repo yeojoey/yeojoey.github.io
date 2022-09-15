@@ -1,12 +1,14 @@
 <nav id="menu">
 	<h2>Menu</h2>
 	<ul>
-		<li><a href="https://yeojoey.wordpress.com">Blog</a></li>
-		<li><a href="/resume_sep2019.pdf">Resume</a></li>
+
 		{% for page in site.pages %}
 			{% if page.type == "menu"%}
 					<li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
 		{% endif %} {% endfor %}
+
+		<li><a href="/JoeyYeo_Resume.pdf">Resume</a></li>
+		<li><a href="https://www.linkedin.com/in/yeojoey/">LinkedIn</a></li>
 
 	</ul>
 </nav>
