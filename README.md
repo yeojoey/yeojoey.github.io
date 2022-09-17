@@ -1,5 +1,10 @@
-# How To Actually use
+Hey! Apparently I'm no longer allowed to have a private repo for my personal website (thanks GitHub >:|) so now anyone can see this page.
+I'm not a pro web dev by any means and in hindsight it was a fool's errand to not just use Squ*respace or something to make my website but...
+I learned a lot???
 
+If you're reading this, don't do anything i'm doing! ha!
+
+# How To Actually Use For The Me Who Has Already Forgotten How To Add Pages To This Sus Website
 
 1. Install Ruby + devkit
 2. Do:
@@ -9,8 +14,8 @@ gem install bundler
 ```
 3. Build and serve:
 ```
-jekyll build
-jekyll serve
+bundle exec jekyll build
+bundle exec jekyll serve
 ```
 
 
