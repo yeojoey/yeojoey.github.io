@@ -2,7 +2,6 @@
 layout: portfolio
 title:  "Gang Beats"
 type: portfolio
-priority: front-page
 excerpt: "A rhythm-fighting game prototype created as an exploration of the rhythm game genre."
 video-url: "P2qPPJ0Ww-A"
 thumbnail-url: "portfolio/gangbeats_thumbnail.gif"
