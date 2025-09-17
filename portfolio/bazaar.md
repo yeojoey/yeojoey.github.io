@@ -15,9 +15,9 @@ tags: [professional, systems, content, tools]
 
 <hr />
 
-I've been working on [The Bazaar](https://www.playthebazaar.com) since August 2021!
+I worked [The Bazaar](https://www.playthebazaar.com) from 2021-2022!
 
-My main responsibilities as a Game Designer are:
+My main responsibilities as a Game Designer were:
 * Designing creature, item and event concepts that are flavorful, balanced, and fun to experience
 * Improving the workflow of other designers on the team by designing and implementing improvements to internal content creation tools
 * Iterating on and evaluating feedback on content based on weekly internal playtests
