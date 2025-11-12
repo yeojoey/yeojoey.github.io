@@ -4,7 +4,7 @@ title:  "Towerborne"
 type: portfolio
 priority: front-page
 excerpt: "A multiplayer looter brawler RPG."
-thumbnail-url: "portfolio/placeholder.PNG"
+thumbnail-url: "portfolio/towerborne.png"
 video-url: "4s1PI1YVCE4"
 tags: [professional, systems, content]
 ---
