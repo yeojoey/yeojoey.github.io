@@ -4,7 +4,7 @@ title:  "The Bazaar"
 type: portfolio
 priority: front-page
 excerpt: "An upcoming free-to-play competitive autobattler for PC and mobile."
-video-url: "lcji_Cs-ECM"
+video-url: "3OB-iP4IpI4"
 thumbnail-url: "portfolio/bazaar.png"
 tags: [professional, systems, content, tools]
 ---
