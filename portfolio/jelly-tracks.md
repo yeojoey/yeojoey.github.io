@@ -2,7 +2,7 @@
 layout: portfolio
 title:  "Jelly Tracks"
 type: portfolio
-priority: front-page
+priority: 
 excerpt: "A rhythm puzzle game prototype created as an exploration of the rhythm game genre."
 video-url: "Z2Q3fOFJJh4"
 thumbnail-url: "portfolio/jelly_thumbnail.gif"
