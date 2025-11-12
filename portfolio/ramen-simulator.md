@@ -2,7 +2,6 @@
 layout: portfolio
 title:  "Ramen Simulator"
 type: portfolio
-priority: front-page
 excerpt: "A browser-based action game where you assemble perfect ramen bowls."
 video-url: "RE6qdLkC9Ec"
 thumbnail-url: "portfolio/ramen_thumbnail.gif"
