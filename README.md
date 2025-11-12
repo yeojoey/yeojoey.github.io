@@ -1,6 +1,5 @@
-Hey! Apparently I'm no longer allowed to have a private repo for my personal website (thanks GitHub >:|) so now anyone can see this page.
-I'm not a pro web dev by any means and in hindsight it was a fool's errand to not just use Squ*respace or something to make my website but...
-I learned a lot???
+Hey! Apparently I'm no longer allowed to have a private repo for my personal website so now anyone can see this page.
+I'm not a pro web dev by any means and in hindsight it was a fool's errand to not just use Squ*respace or something to make my website but... small internet good (i say while using github pages)
 
 If you're reading this, don't do anything i'm doing! ha!
 
