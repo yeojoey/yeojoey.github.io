@@ -4,9 +4,8 @@ title:  "Towerborne"
 type: portfolio
 priority: front-page
 excerpt: "A multiplayer looter brawler RPG."
-video-url: "lcji_Cs-ECM"
 thumbnail-url: "portfolio/placeholder.png"
-tags: [professional, systems, content, tools]
+tags: [professional, systems, content]
 ---
 
 **Role:** Senior Game Designer (Quests, Missions)
