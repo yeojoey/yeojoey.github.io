@@ -2,7 +2,7 @@
 layout: portfolio
 title:  "Beat'Em"
 type: portfolio
-priority: front-page
+priority:
 excerpt: "A VR rhythm-action-game made for the Building Virtual Worlds class in 2018."
 video-url: "GN4sg4TsPPQ"
 thumbnail-url: "portfolio/beatem_thumbnail.gif"
